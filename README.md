@@ -25,11 +25,11 @@ If you're interested in participating on some projects that would be helpful for
 
 ## Projects
 
-- [https://github.com/jsilvanus/gitsema](Gitsema) - a temporal-semantic tool for code concept discovery
-- [https://github.com/jsilvanus/embedeer](embedeer) - a Node.js tool for creating embeddings from HF (ONNX) models
-- [https://github.com/jsilvanus/chattydeer](chattydeer) - a Node.js minimal chat completionist (built on embedeer)
+- [Gitsema](https://github.com/jsilvanus/gitsema) - a temporal-semantic tool for code concept discovery
+- [embedeer](https://github.com/jsilvanus/embedeer) - a Node.js tool for creating embeddings from HF (ONNX) models
+- [chattydeer](https://github.com/jsilvanus/chattydeer) - a Node.js minimal chat completionist (built on embedeer)
 - **Live Captions for Youtube (LCYT)** [repo](https://github.com/jsilvanus/live-captions-yt) and [site](http://lcyt.fi).
-- [https://github.com/jsilvanus/anno-api](Anno Domini API) - A small API for requesting liturgical year information
+- [Anno API](https://github.com/jsilvanus/anno-api) - A small API for requesting liturgical year information
 
 <!--
 **jsilvanus/jsilvanus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
