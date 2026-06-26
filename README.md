@@ -4,9 +4,9 @@ he/him
 
 ## Current activity
 
-- Currently working on: gitsema, embedeer, chattydeer
+- Currently working on: gitsema, deer (nudeer, embedeer, chattydeer, seedeer)
 - Next up: finishing LCYT, two private projects
-- Then: a pause in coding
+- Then: a pause
 
 ## Tools for the Church
 
@@ -26,8 +26,7 @@ If you're interested in participating on some projects that would be helpful for
 ## Projects
 
 - [Gitsema](https://github.com/jsilvanus/gitsema) - a temporal-semantic tool for code concept discovery
-- [embedeer](https://github.com/jsilvanus/embedeer) - a Node.js tool for creating embeddings from HF (ONNX) models
-- [chattydeer](https://github.com/jsilvanus/chattydeer) - a Node.js minimal chat completionist (built on embedeer)
+- [deer](https://github.com/jsilvanus/deer) - a monorepo for Node.js / ESM model handling
 - **Live Captions for Youtube (LCYT)** [repo](https://github.com/jsilvanus/live-captions-yt) and [site](http://lcyt.fi).
 - [Anno API](https://github.com/jsilvanus/anno-api) - A small API for requesting liturgical year information
 
