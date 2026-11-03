@@ -4,9 +4,8 @@ he/him
 
 ## Current activity
 
-- Currently working on: gitsema, deer (nudeer, embedeer, chattydeer, seedeer)
-- Next up: finishing LCYT, two private projects
-- Then: a pause
+- Currently working on: piecosystem, lcyt
+- Next up: voice dataset creation from Bible and church liturgy
 
 ## Tools for the Church
 
