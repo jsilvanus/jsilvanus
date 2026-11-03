@@ -24,6 +24,7 @@ If you're interested in participating on some projects that would be helpful for
 
 ## Projects
 
+- [Pi Ecosystem](https://github.com/jsilvanus/piecosystem) - AV microsystems for our use
 - [Gitsema](https://github.com/jsilvanus/gitsema) - a temporal-semantic tool for code concept discovery
 - [deer](https://github.com/jsilvanus/deer) - a monorepo for Node.js / ESM model handling
 - **Live Captions for Youtube (LCYT)** [repo](https://github.com/jsilvanus/live-captions-yt) and [site](http://lcyt.fi).
